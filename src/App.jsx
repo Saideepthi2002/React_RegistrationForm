@@ -33,11 +33,11 @@ function App() {
     console.log(hobbielist)
     reset()
   }
-
+  // .Registration
 
   return (
     <>
-      <h1>Registration Form</h1>
+      <h1 className="Reg">Registration Form</h1>
       <form onSubmit={handleSubmit(onsubmit)}>
         <div>
           <label>

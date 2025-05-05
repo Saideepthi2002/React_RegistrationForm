@@ -126,3 +126,21 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background-color: #0056b3;
 }
+
+.hobby-list {
+  margin-top: 10px;
+}
+
+.hobby-item {
+  display: inline-block;
+  margin-right: 10px; /* space between hobbies */
+  background-color: #e0f0ff;
+  color: #003366;
+  padding: 6px 10px;
+  border-radius: 16px;
+  font-size: 0.9rem;
+}
+
+.Registration{
+  color:"red"
+}

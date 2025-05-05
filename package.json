@@ -1,6 +1,5 @@
 {
-
-  "homepage": "https://github.com/Saideepthi2002/React_RegistrationForm",
+  "homepage": "https://Saideepthi2002.github.io/React_RegistrationForm",
   "name": "react-app-day2",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
